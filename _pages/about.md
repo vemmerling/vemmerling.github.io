@@ -24,5 +24,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a master student at <a href='https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/'>AffUniversität Bielefeld</a> in the Intelligent Interactive Systems program.
+I am a master student at <a href='https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/'>Universität Bielefeld</a> in the Intelligent Interactive Systems program.
 My interests are Visual Computing, ML and deep learning, as a student research assitant I am gathering research experience and contributing to various projects.
