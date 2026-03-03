@@ -11,37 +11,37 @@ cv:
       - institution: Universität Bielefeld
         location: Bielefeld, Germany
         url: https://https://www.uni-bielefeld.de/
+        area: Intelligent Interactive Systems
+        studyType: Master
+        start_date: 2025
+        end_date: Today
+        
+      - institution: Universität Bielefeld
+        location: Bielefeld, Germany
+        url: https://https://www.uni-bielefeld.de/
         area: Computer Scince & Cognitive Systems
         studyType: Bachelor
         start_date: 2020
         end_date: 2025
         courses: "Bachelor Thesis: Generating Partner-Adaptive Explanations: Leveraging Language Models for Dynamic Utterance Generationfrom Triples."
-
-      - institution: Universität Bielefeld
-        location: Bielefeld, Germany
-        url: https://https://www.uni-bielefeld.de/
-        area: Intelligent Interactive Systems
-        studyType: Master
-        start_date: 2025
-        end_date: Today
-
+        
     Experience:
       - company: HESSE Vorrichtungen und Fertigungstechnik GmbH
         position: Product Designer & Rapid Prototyping
-        location: Stukenbrock-Senne,\n Germany
+        location: Stukenbrock, Germany
         start_date: 2022
         end_date: 2024
         summary: I worked as a product designer on feasiability studies for customers collaborating on fixture desing leveraging rapid prototyping.
         highlights:
           - Helped establish 3D printing processes in the company
-          - Presented custom prototypes to customers
+          - Customer prototype presentations
 
 
     Skills:
-      - name: Physics
+      - name: Pytorch
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "LLM Finetuning, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
       - name: German
